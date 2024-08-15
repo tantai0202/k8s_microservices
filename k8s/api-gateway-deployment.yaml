@@ -36,4 +36,4 @@ spec:
               value: "3000"
           envFrom:
             - configMapRef:
-              name: microservice-cm
+                name: microservice-cm
